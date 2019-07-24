@@ -1,0 +1,57 @@
+ [{
+         "id": 1,
+         "name": "Fountain Pen",
+         "price": 50.00,
+         "company": "Reynolds",
+         "status": true
+     },
+     {
+         "id": 2,
+         "name": "Pencil",
+         "price": 5.00,
+         "company": "Camlin",
+         "status": true
+     },
+     {
+         "id": 3,
+         "name": "School Bag",
+         "price": 600.00,
+         "company": "Skybags",
+         "status": true
+     },
+     {
+         "id": 4,
+         "name": "Notebook",
+         "price": 35.00,
+         "company": "Classmate",
+         "status": true
+     },
+     {
+         "id": 5,
+         "name": "Soap",
+         "price": 25.00,
+         "company": "Mysore Sandal",
+         "status": true
+     },
+     {
+         "id": 6,
+         "name": "Washing Powder",
+         "price": 20.00,
+         "company": "Surf Exel",
+         "status": true
+     },
+     {
+         "id": 7,
+         "name": "Chocolate",
+         "price": 75.00,
+         "company": "Kit Kat",
+         "status": true
+     },
+     {
+         "id": 8,
+         "name": "Juice",
+         "price": 40.00,
+         "company": "Mazza",
+         "status": true
+     }
+ ]
