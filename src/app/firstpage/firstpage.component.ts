@@ -12,7 +12,7 @@ import { CommonService } from '../common.service';
                 </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
-                <button  class="btn btn-outline-success my-2 my-sm-0"  >Cart Items : </button>
+                <button  class="btn btn-outline-success my-2 my-sm-0" routerLink = "/cart"  >Cart Items : </button>
             </form>
         </div>
     </nav>
